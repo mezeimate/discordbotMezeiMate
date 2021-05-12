@@ -1,0 +1,27 @@
+{
+  "name": "feeldybot",
+  "version": "1.0.0",
+  "main": "feeldy.js",
+  "scripts": {
+    "start": "node feeldy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feeldy/feeldybot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feeldy/feeldybot/issues"
+  },
+  "homepage": "https://github.com/feeldy/feeldybot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.2.0",
+    "fetch": "^1.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
